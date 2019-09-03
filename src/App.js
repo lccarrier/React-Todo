@@ -62,7 +62,7 @@ class App extends React.Component {
     console.log(this.state);
     return (
       <div className="to-do-app">
-        <h2>Today's Most Important Tasks</h2>
+        <h2>I love todo lists</h2>
       </div>
     )
   }
